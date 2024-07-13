@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/etoiles-decoration",
   "1.20.1": {
+    "2.0.4": "Modification and some fix",
+    "2.0.3": "Modification and some fix",
     "2.0.2": "Modification and some fix",
     "2.0.1": "Added cucumber woodtype",
     "2.0.0": "Added a furnace pet",
@@ -9,7 +11,7 @@
     "1.0.6": "Add a etoiles tamable entity, some advancement and items"
   },
   "promos": {
-    "1.20.1-latest": "2.0.2",
-    "1.20.1-recommended": "2.0.2"
+    "1.20.1-latest": "2.0.4",
+    "1.20.1-recommended": "2.0.4"
   }
 }
