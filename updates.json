@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/etoiles-decoration",
   "1.20.1": {
+    "2.0.5": "Modification and some fix",
     "2.0.4": "Modification and some fix",
     "2.0.3": "Modification and some fix",
     "2.0.2": "Modification and some fix",
@@ -11,7 +12,7 @@
     "1.0.6": "Add a etoiles tamable entity, some advancement and items"
   },
   "promos": {
-    "1.20.1-latest": "2.0.4",
-    "1.20.1-recommended": "2.0.4"
+    "1.20.1-latest": "2.0.5",
+    "1.20.1-recommended": "2.0.5"
   }
 }
